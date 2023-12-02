@@ -6,9 +6,9 @@ authors = ["megahomyak <g.megahomyak@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-fuckoff = "^0.1.0"
-cross-platform-shutdown = "^0.1.0"
+python = "^3.8"
+fuckoff = "^0.2.0"
+cross-platform-shutdown = "^0.2.0"
 
 
 [build-system]
